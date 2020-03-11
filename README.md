@@ -22,7 +22,10 @@ blur_eyes_in_images('./images','./images_generated',15)
 ## Demo
 - I have used a selfie of elen from [here](https://www.gannett-cdn.com/-mm-/43a1a3523af941a87e3b16e3c278f5b2a05102a0/c=2-0-1022-576/local/-/media/2017/06/21/USATODAY/USATODAY/636336409269948637-AP-YE-86TH-ACADEMY-AWARDS-69181576.JPG?width=660&height=373&fit=crop&format=pjpg&auto=webp) and compiled the code. looks as below.
 
-<img src="https://github.com/bharatpabba/blur-it/blob/master/images_generated/1.jpeg" />
+<img src="https://github.com/bharatpabba/blurit/blob/master/images_generated/1.jpeg" />
+
+## Pretained model used in extracting features
+Facial landmarks are found using a [pre-trained 68 point predictor:](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
 
 ## I have used the help from below posts to build this package
 

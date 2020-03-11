@@ -7,7 +7,7 @@ with open('README.md','r') as f:
 
 setup(
     name = "blurit",
-    version = "0.0.12",
+    version = "0.0.13",
     description = "This package is aimed to build to blur different portions of a image. Currently it blurs eyes in human photograph.",
     py_modules = ["blurit"],
     package_dir = {'':'src'},
