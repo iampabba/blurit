@@ -23,7 +23,7 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=[
         "opencv-python~=4.1.2",
-        "numpy~=1.17.2",
+        "numpy~=1.21",
         "dlib~=19.19.0"
     ],
     extras_require={
