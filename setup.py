@@ -33,5 +33,5 @@ setup(
     },
     url="https://github.com/iampabba/blur-it",
     author="Anubharth Pabba",
-    author_email="bharath.pabba@gmail.com"
+    author_email="bharath.pabba1@gmail.com"
 )
