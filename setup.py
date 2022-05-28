@@ -31,7 +31,7 @@ setup(
             "pytest>=3.7"
         ],
     },
-    url="https://github.com/bharatpabba/blur-it",
+    url="https://github.com/iampabba/blur-it",
     author="Anubharth Pabba",
     author_email="bharath.pabba@gmail.com"
 )
