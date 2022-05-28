@@ -1,7 +1,7 @@
 # Blur It
 This package is aimed to build to blur different portions of a image. Currently it blurs eyes in human photograph.
 
-[![PyPI version](https://badge.fury.io/py/blurit.svg)](https://badge.fury.io/py/blurit)
+[![PyPI version] ([https://badge.fury.io/py/blurit.svg](https://badge.fury.io/py/blurit.svg))](https://badge.fury.io/py/blurit)
 
 ## Install
 ```sh
